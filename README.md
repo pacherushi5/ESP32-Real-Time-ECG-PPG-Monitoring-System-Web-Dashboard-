@@ -56,3 +56,4 @@ The ESP32 hosts a **local web dashboard** that visualizes ECG and PPG waveforms 
 5. Sends JSON packet:  
    ```json
    {"ecg":1234, "ppg":5678}
+![liveweb2025-11-18 at 4 36 57 PM](https://github.com/user-attachments/assets/81f087e8-456d-4ee4-aa18-491303fcd686)
